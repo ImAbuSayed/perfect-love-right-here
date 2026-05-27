@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/perfect-love-right-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Perfect Love Right Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perfect-love-right-here/) |
+| **Get License** | [Commercial Licensing for Perfect Love Right Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perfect-love-right-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire in the shadows when you look my way
+> A quiet spark in the midnight, chasing the cold away
+> We do not need to wander, the world can disappear
+> Because I found my perfect love right here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
