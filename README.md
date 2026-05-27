@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/perfect-love-right-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Perfect Love Right Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perfect-love-right-here/) |
+| **Get License** | [Request Licensing for Perfect Love Right Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perfect-love-right-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c7fbac44c3507c25f0381f8f2f4564d56a85274a4a13b9946bd20b65000e7184` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
